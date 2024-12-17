@@ -22,7 +22,7 @@ The dataset enables an in-depth analysis of purchasing behaviors, customer segme
 
 ## Data Source
 
-The data has been sourced from [Kaggle](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset). 
+The data has been sourced from [Sahil Prajapati's Kaggle](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset). 
 
 ## Project Objectives
 
