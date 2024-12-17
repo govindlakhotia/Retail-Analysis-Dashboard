@@ -57,6 +57,12 @@ The main goals of this project include:
 
     -> PayPal and Cash dominate payment preferences, especially in Electronics and Other categories.
 
+![Screenshot from 2024-12-18 02-23-22](https://github.com/user-attachments/assets/1f0f5d97-c863-42d8-b982-c6a4e3670ea7)
+![Screenshot from 2024-12-18 02-23-52](https://github.com/user-attachments/assets/70c1f3d8-690a-4bec-aadd-4d9a5acfd528)
+![Screenshot from 2024-12-18 02-24-18](https://github.com/user-attachments/assets/7c154a98-412e-4dbf-a143-dbbcef82dd1d)
+![Screenshot from 2024-12-18 02-24-38](https://github.com/user-attachments/assets/445629ca-5ba3-441c-b1b1-97a17253dd24)
+
+
 ## Analytical Insights
 
 **1. Geographical Insights**
