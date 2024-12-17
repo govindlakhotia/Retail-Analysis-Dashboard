@@ -114,6 +114,8 @@ Other cities cumulatively contribute 16.07%.
     -> Average Age: 35
     -> Unique Customers: 86,189
 
+## Video
+
 ## Managerial Aspects
 
 **1. Market Prioritization**
